@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         <br>
   🗄️ Library<br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodejs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <br>
   Framework<br>
           <img src="https://img.shields.io/badge/React Native-000000?style=flat&logo=react&logoColor=61DAFB"/>
