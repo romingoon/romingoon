@@ -27,7 +27,7 @@
      <b>📢 Team Collaboration & Communication Tool</b><br>
          <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"/>
          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/><br>                  
+         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/><br><br>                  
     <b>💻 Romingoon's GitLog</b><br>
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romingoon&layout=compact"><br><br>
          <img src="https://github-readme-stats.vercel.app/api?username=romingoon&show_icons=true">
