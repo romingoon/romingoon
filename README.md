@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align='center'>
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Romingoon%Github&fontSize=90)
+<img src ='https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Romingoon%Github&fontSize=90'/>
 
    <br>
    <h3> 📚Tech Stack 📚</h3>
