@@ -49,6 +49,8 @@ Here are some ideas to get you started:
          <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
          <img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white"/>
          <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Slack-0052CC?style=flat&logo=slack&logoColor=white"/>
+         
 </div>
 <div align="center">
   <b>💻 Romingoon's GitLog</b><br>
