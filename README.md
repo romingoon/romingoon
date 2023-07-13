@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Romingoon%Github&fontSize=90)
 
 <div align='center'>
-<br>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Romingoon%Github&fontSize=90)
+
+   <br>
    <h3> 📚Tech Stack 📚</h3>
   <b>🖥️Programming Language</b><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
