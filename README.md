@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 
 <div align='center'>
 <br>
-  📚 <b> Tech Stack </b>📚<br>
-  Language<br>
+  📚 <b> Tech Stack </b>📚<br><br>
+  <b>Programming Language</b><br><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-        <br>
-  🗄️ Library<br>
+        <br><br>
+  🗄️ Library<br><br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/><br>
-  Framework<br>
+  Framework<br><br>
         <img src="https://img.shields.io/badge/React Native-000000?style=flat&logo=react&logoColor=61DAFB"/>
-        <br>
-        🗂️DBMS<br>
+        <br><br>
+        🗂️DBMS<br><br>
          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  
+  Markup Language & CSS Styling <br><br>
         
 
 
