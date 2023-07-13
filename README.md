@@ -25,7 +25,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
         <br>
   Library<br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/><br>
+  Framework<br>
         <img src="https://img.shields.io/badge/React Native-000000?style=flat&logo=react&logoColor=61DAFB"/>
         
   
