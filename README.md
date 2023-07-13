@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Romingoon%Github&fontSize=90)
 
-<img src="https://img.shields.io/badge/Visual%Studio%Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<div align='center'>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 🛠 Tools 🛠
-
-<  
+  
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romingoon&layout=compact"><br><br>
