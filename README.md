@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align='center'>
 <br>
    <h3> 📚Tech Stack 📚</h3>
-  <b>Programming Language</b><br>
+  <b>🖥️Programming Language</b><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
         <br>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
          <b>Team Collaboration & Communication Tool</b><br>
          <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"/>
          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/><br>
 
 </div>
 <div align="center">
