@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 🛠 Tools 🛠
 <br><br>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  
          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </div>
 <div align="center">
