@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
 <br>
-  📚 Tech Stack 📚
+  📚 Tech Stack 📚<br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 
