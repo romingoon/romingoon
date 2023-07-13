@@ -24,15 +24,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
         <br>
-  🗄️ Library<br>
+  🗄️ <b>Library</b><br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <br>
-  Framework<br>
+  <b>Framework</b><br>
           <img src="https://img.shields.io/badge/React Native-000000?style=flat&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
         <br>
-        🗂️DBMS<br>
+        🗂️<b>DBMS</b><br>
          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><br>
   Markup Language & CSS Styling <br>
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -42,12 +42,13 @@ Here are some ideas to get you started:
 
 
 
-🛠 Tools
+🛠 <b>Tools</b>
 <br>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
          <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
          <img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white"/><br>
+         <b>Team Collaboration & Communication Tool</b>
          <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"/>
          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
                   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
