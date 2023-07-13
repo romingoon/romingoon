@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
 <br>
-  📚 <h3> Tech Stack </h3>📚<br><br>
+   <h3> 📚Tech Stack 📚</h3><br><br>
   <b>Programming Language</b><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
         <br>
         🗂️<b>DBMS</b><br>
          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><br>
-  Markup Language & CSS Styling <br>
+  <b>Markup Language & CSS Styling</b> <br>
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
                 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
                 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
